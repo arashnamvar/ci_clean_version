@@ -1,0 +1,57 @@
+h5 {
+	padding: 0;
+	margin: 0;
+}
+
+h6 {
+	padding: 0 0 4% 0;
+	margin: 0;
+}
+
+.add-review {
+	padding-left: 5%;
+}
+
+.bold {
+	font-weight: bold;
+	padding-right: 3%;
+}
+
+.real {
+	padding-left: 5%;
+}
+
+.book-title {
+	display: block;
+	padding: 0 0 2%;
+}
+
+.book-title:not(:first-child) {
+	border-top: 1px black solid;
+}
+
+.name {
+	font-size: .9em;
+}
+
+.small-text {
+	font-size: .9em;
+	display: block;
+	padding: 2% 0 0;
+}
+
+.smaller-text {
+	display: inline-block;
+	font-size: .75em;
+	padding: 2% 0 5%;
+	width: 75%;
+}
+
+.smaller-text-delete {
+	font-size: .75em;
+	padding: 2% 0 5%;
+}
+
+.recent-book-review {
+	padding-right: 5%;
+}

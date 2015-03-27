@@ -1,0 +1,20 @@
+.nav {
+	text-align: right;
+}
+
+.logout {
+	line-height: 60px;
+}
+
+.real {
+	padding-left: 5%;
+}
+
+.reviews {
+	padding-top: 5%;
+}
+
+.book-review {
+	display: block;
+	padding-left: 5%;
+}
